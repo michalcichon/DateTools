@@ -18,4 +18,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'DateTools/DateTools'
   s.resources    = 'DateTools/DateTools/DateTools.bundle'
+  s.pod_target_xcconfig = { 'OTHER_CFLAGS' => '-fembed-bitcode' }
 end
