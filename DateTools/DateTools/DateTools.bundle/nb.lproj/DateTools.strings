@@ -123,3 +123,12 @@
 
 /* No comment provided by engineer. */
 "This year" = "Dette året";
+
+/* Short format for */
+"%dy" = "%dy"; // year
+"%dM" = "%dM"; // month
+"%dw" = "%dw"; // week
+"%dd" = "%dd"; // day
+"%dh" = "%dt"; // hour
+"%dm" = "%dmin"; // minute
+"%ds" = "%ds"; // second
